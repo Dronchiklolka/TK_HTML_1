@@ -3,7 +3,7 @@ body{
 }
 
 .wrapper{
-    width: 1600px;
+    width: auto;
 }
 
 .container_header{
@@ -11,5 +11,5 @@ display: flex;
 }
 
 .container_header_left{
-
+    text-align:  center;
 }
